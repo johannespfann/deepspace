@@ -2,8 +2,6 @@ package de.pfann.deepspace.fightsystem
 
 import de.pfann.deepspace.api.{Cougar, Fightable, SpaceStation}
 import de.pfann.deepspace.fightsystem.core.{FleetCoordinator, SimpleAttackAction}
-import de.pfann.deepspace.fightsystem.runtime.AttackAction
-import de.pfann.deepspace.fightsystem.spaceships.{Cougar, SpaceStation}
 import org.scalatest.FlatSpec
 
 class CoordinatorTest extends FlatSpec{

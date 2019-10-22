@@ -1,7 +1,6 @@
 package de.pfann.deepspace.fightsystem.spaceships
 
 import de.pfann.deepspace.api.{AttackAction, Fightable}
-import de.pfann.deepspace.fightsystem.runtime.AttackAction
 
 abstract class AbstractFightable(lifePoints: Int, shildPoints: Int) extends Fightable {
 

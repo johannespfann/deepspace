@@ -2,7 +2,7 @@ package de.pfann.deepspace.fightsystem
 
 import de.pfann.deepspace.api.{Cougar, Fightable, Schakal, SpaceStation}
 import de.pfann.deepspace.fightsystem.core.BattleEngine
-import de.pfann.deepspace.fightsystem.spaceships.{Cougar, Schakal, SpaceStation}
+import de.pfann.deepspace.log.Log
 
 object Main {
 

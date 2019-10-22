@@ -1,8 +1,8 @@
 package de.pfann.deepspace.fightsystem.chain
 
 import de.pfann.deepspace.api.{AttackAction, Fightable}
-import de.pfann.deepspace.fightsystem.Log
 import de.pfann.deepspace.fightsystem.core.{BlindAttackAction, FleetCoordinator}
+import de.pfann.deepspace.log.Log
 
 
 class AttackerBattleFieldState(attacker: AttackerState, defender: DefenderState, coordinator: FleetCoordinator) extends AttackerState {

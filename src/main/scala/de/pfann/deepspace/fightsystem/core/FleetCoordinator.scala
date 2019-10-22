@@ -1,7 +1,6 @@
 package de.pfann.deepspace.fightsystem.core
 
 import de.pfann.deepspace.api.{AttackAction, FieldCoordinator, Fightable}
-import de.pfann.deepspace.fightsystem.runtime.{AttackAction, FieldCoordinator}
 
 
 class FleetCoordinator(fleets: List[Fightable]) extends FieldCoordinator{

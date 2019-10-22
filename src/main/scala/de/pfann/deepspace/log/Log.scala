@@ -1,4 +1,4 @@
-package de.pfann.deepspace.fightsystem
+package de.pfann.deepspace.log
 
 object Log {
 
