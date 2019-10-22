@@ -4,7 +4,10 @@ object Main {
 
   def main(args: Array[String]): Unit = {
 
-    println("hello")
+    val ironBuildingFactory = new IronBuildingFactory()
+
+
+
 
   }
 
