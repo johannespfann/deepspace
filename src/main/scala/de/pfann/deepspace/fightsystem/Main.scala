@@ -8,7 +8,6 @@ object Main {
 
   def main(args: Array[String]): Unit = {
 
-
     /**
       * Team A
       */
@@ -27,7 +26,6 @@ object Main {
     teamA ::=  new Cougar(20,50,40)
     teamA ::=  new Cougar(20,50,40)
 
-
     teamA ::=  new Schakal(4,50,60)
     teamA ::=  new Schakal(4,50,60)
     teamA ::=  new Schakal(4,50,60)
@@ -36,8 +34,6 @@ object Main {
     teamA ::=  new Schakal(4,50,60)
     teamA ::=  new Schakal(4,50,60)
     teamA ::=  new Schakal(4,50,60)
-
-
 
     /**
       * Team B
@@ -52,7 +48,6 @@ object Main {
     teamB ::= new Cougar(20,50,30)
     teamB ::= new Cougar(20,50,30)
 
-
     teamB ::= new Schakal(5,50,20)
     teamB ::= new Schakal(5,50,20)
     teamB ::= new Schakal(5,50,20)
@@ -62,7 +57,6 @@ object Main {
     teamB ::= new Schakal(5,50,20)
     teamB ::= new Schakal(5,50,20)
     teamB ::= new Schakal(5,50,20)
-
 
     teamB ::=  new SpaceStation(30,50,20)
     teamB ::=  new SpaceStation(30,50,20)
